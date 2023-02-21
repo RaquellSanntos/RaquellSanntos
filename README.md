@@ -10,9 +10,10 @@
 
 ![Raquell GitHub stats](https://github-readme-stats.vercel.app/api?username=raquellsanntos&show_icons=true&theme=radical)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquellsanntos&layout=compact&langs_count=16&theme=dark"/>
-
+##
 <div>
    <img height="40em" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <img height="40em" src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white/>
      <img height="40em" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
       <img height="40em" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/>

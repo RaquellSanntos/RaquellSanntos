@@ -12,11 +12,12 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquellsanntos&layout=compact&langs_count=16&theme=dark"/>
 ##
 <div>
-   <img height="40em" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />     
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />    
-      <img height="40em" src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white/>
-       <img height="40em" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
-        <img height="40em" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/>
-         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+            <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>

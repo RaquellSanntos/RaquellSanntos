@@ -11,7 +11,7 @@
 ![Raquell GitHub stats](https://github-readme-stats.vercel.app/api?username=raquellsanntos&show_icons=true&theme=radical)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquellsanntos&layout=compact&langs_count=16&theme=dark"/>
 
-### Abaixo está as tecnologias que utilizo!✨✨✨✨✨✨
+### Essas são as tecnologias que utilizo no meu dia a dia 👩‍💻 👩‍💻 👩‍💻
 <div>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />     
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
